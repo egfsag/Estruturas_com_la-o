@@ -1,2 +1,2 @@
-# Estruturas_com_la-o
-Trabalhando com laços em cpp
+# Estruturas com laço
+Trabalhando com laços e vetores em cpp
